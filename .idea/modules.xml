@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data Structure &amp; Algorithms.iml" filepath="$PROJECT_DIR$/Data Structure &amp; Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SandeepJain/SandeepJain.iml" filepath="$PROJECT_DIR$/SandeepJain/SandeepJain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver/Striver.iml" filepath="$PROJECT_DIR$/Striver/Striver.iml" />
+    </modules>
+  </component>
+</project>
