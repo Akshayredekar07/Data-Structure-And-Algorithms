@@ -1,3 +1,5 @@
+package CycleSort;
+
 public class disapperingNumbers {
     public static void main(String[] args) {
 
@@ -16,8 +18,8 @@ public class disapperingNumbers {
             }else {
                 i++;
             }
-            return -1;
         }
+        return -1;
     }
 
     static void swap(int[] nums, int i, int correct) {
