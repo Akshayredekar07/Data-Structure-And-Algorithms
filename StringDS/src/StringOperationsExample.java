@@ -54,5 +54,16 @@ public class StringOperationsExample {
 
         System.out.println("Original String with Spaces: '" + withSpaces + "'");
         System.out.println("Trimmed String: '" + trimmed + "'");
+
+        String s = "Radhe shyam";
+        String s1 = "likes cows!!";
+        boolean ends =  s.endsWith("shyam");
+        System.out.println(ends);
+
+        s1.toUpperCase();
+        System.out.println(s1);
+
+        System.out.println(s.indexOf("R"));
+  
     }
 }
