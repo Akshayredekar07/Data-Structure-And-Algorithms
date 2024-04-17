@@ -18,7 +18,7 @@ class Derived extends Base{
 }
 
 
-public class T45Inheritance {
+public class T45__Inheritance {
     public static void main(String[] args) {
         Derived b = new Derived();
         b.setX(4);

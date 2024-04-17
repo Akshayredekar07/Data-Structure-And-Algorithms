@@ -1,0 +1,45 @@
+package Alpha;
+
+public class LinkedList {
+
+
+    public static class Node{
+        int data;
+        Node next;
+
+        public Node(int d){
+            this.data = d;
+            this.next = null;
+        }
+    }
+
+    public static Node head;
+    public static Node tail;
+
+    /*
+    * Methods
+    * add()
+    * delete()
+    * search()
+    * */
+
+
+    public void addFirst(int data){
+        //step1 create a new node
+        Node newNode= new Node(data);
+        if(head == null){
+            head = tail = null;
+            return;
+        }
+
+
+    }
+
+
+    public static void main(String[] args) {
+        LinkedList ll = new LinkedList();
+        //Write the method instead of writing the code in the main function
+        ll.head = new Node(1);
+        ll.head.next = new Node(2);
+    }
+}
