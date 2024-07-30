@@ -5,7 +5,7 @@ public class LeftRotateD {
 
     }
 
-    public static void LeftRotate(int arr[]){
+    public static void LeftRotate(int[] arr){
         int n = arr.length;
         int temp = arr[0];
 
@@ -15,7 +15,7 @@ public class LeftRotateD {
         arr[n-1] = temp;
     }
     //Second time calling left rotate by one
-    public static void LeftRotate1(int arr[]){
+    public static void LeftRotate1(int[] arr){
         int n = arr.length;
         int temp = arr[0];
 
@@ -26,7 +26,7 @@ public class LeftRotateD {
     }
 
     //efficient solution
-    public static void leftR(int arr[], int d){
+    public static void leftR(int[] arr, int d){
         int n = arr.length;
         int temp;
 

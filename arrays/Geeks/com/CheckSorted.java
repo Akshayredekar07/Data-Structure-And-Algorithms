@@ -3,8 +3,9 @@ package Geeks.com;
 public class CheckSorted {
     public static void main(String[] args) {
         int[] arr = {7,20, 30, 10};
-        System.out.println(isSorted(arr));
-        System.out.println(efficientApproach(arr));
+//        System.out.println(isSorted(arr));
+//        System.out.println(efficientApproach(arr));
+        System.out.println(sorted(arr));
     }
 
     public static boolean isSorted(int[] arr){
@@ -33,5 +34,14 @@ public class CheckSorted {
             }
         }
         return true;
+    }
+
+    public static boolean sorted(int[] arr){
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i]<=arr[i+1]){
+                return true;
+            }
+        }
+        return false;
     }
 }

@@ -5,7 +5,8 @@ import java.util.ArrayList;
 public class DynamicArrayInsertionExample {
 
     public static void main(String[] args) {
-        ArrayList<Integer> dynamicArray = new ArrayList<>(); // Create a dynamic array
+        ArrayList<Integer> dynamicArray = new ArrayList<>();
+        // Create a dynamic array
 
         // Initial array elements
         dynamicArray.add(10);

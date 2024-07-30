@@ -8,7 +8,7 @@ public class RangeXOR {
         int ans = xor(b)^xor(a-1);
         System.out.println(ans);
 
-        //ans verify using simple for loop dont use in leetcode give TLE exceeds
+        //ans verify using simple for loop don't use in leetcode give TLE exceeds
         int ans2 = 0;
         for (int i = a; i <= b; i++) {
             ans2 = ans2 ^ i;

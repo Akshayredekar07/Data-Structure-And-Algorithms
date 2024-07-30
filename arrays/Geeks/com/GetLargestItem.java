@@ -28,9 +28,10 @@ public class GetLargestItem {
     //efficient solution
     public static int getLargest(int[] arr){
         int res = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if(arr[i] > arr[res]){
+        for (int j : arr) {
+            if (j > arr[res]) {
                 res = 1;
+                break;
             }
         }
         return res;
