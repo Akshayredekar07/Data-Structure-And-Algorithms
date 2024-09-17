@@ -1,0 +1,167 @@
+
+
+class Node{
+
+    int data;
+    Node next;
+
+    Node(int data){
+        this.data = data;
+        this.next = null;
+    }
+}
+
+public class Traversal{
+
+    public static void main(String[] args){
+
+        Node head = new Node(10);
+        head.next = new Node(20);
+        head.next.next = new Node(30);
+        head.next.next.next = new Node(40);
+
+        printlist(head);
+
+
+        int x = 5;
+        insertAtBegin(head, x);
+        
+
+    }
+
+    static void printlist(Node head){
+
+        Node curr = head;
+        while(curr != null){
+
+            System.out.print(curr+" -> ");
+            curr = curr.next;
+        }
+    } 
+
+
+    static void insertAtBegin(Node head, int data){
+
+        Node newNode = new Node(data);
+        newNode.next = head;
+        head = newNode;
+    }
+}
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+public class LLInsertion{
+
+    public static void main(String[] args){
+
+        Node head = null;
+        head = insertAtBegin(head, 30);
+        head = insertAtBegin(head, 20);
+        head = insertAtBegin(head, 10);
+
+        int x = 5;
+        insertAtBegin(head, x);
+        
+        printlist(head);
+    }
+
+    static void printlist(Node head){
+
+        Node curr = head;
+        while(curr != null){
+
+            System.out.print(curr.data + " ");
+            curr = curr.next;
+        }
+    } 
+
+
+    static Node insertAtBegin(Node head, int data){
+
+        Node newNode = new Node(data);
+        newNode.next = head;
+        return newNode;
+    }
+}
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+public class LLInsertionAtEnd{
+
+    public static void main(String[] args){
+
+        Node head = null;
+        head = insertAtEnd(head, 10);
+        head = insertAtEnd(head, 20);
+        head = insertAtEnd(head, 30);
+
+        int x = 50;
+        insertAtEnd(head, x);
+        
+        printlist(head);
+    }
+
+    static void printlist(Node head){
+
+        Node curr = head;
+        while(curr != null){
+
+            System.out.print(curr.data + " ");
+            curr = curr.next;
+        }
+    } 
+
+
+    static Node insertAtEnd(Node head, int data){
+
+        Node newNode = new Node(data);
+
+        if(head == null){
+            return newNode;
+        }
+
+        Node curr = head;
+
+        while(curr.next != null){
+            curr = curr.next;
+        }
+        curr.next = newNode;
+        return head;
+
+    }
+
+
+    static Node insertAtPosition(Node head, int data, int pos){
+
+        Node temp = new Node(data);
+
+        if(pos == 1){
+            temp.next = head;
+            return temp;
+        }
+
+        Node curr = head;
+
+        for(int i=1; i<=pos-2 && curr!=null; i++){
+            curr = curr.next;
+        }
+        
+        if(curr == null){
+            return head;
+        }
+
+        temp.next = curr.next;
+        curr.next = temp;
+        return head;
+
+    }
+}
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+

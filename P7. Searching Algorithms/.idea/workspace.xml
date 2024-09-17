@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98528a65-f7e7-4afd-afb8-9ca6bc87d015" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../KunalOOPs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KunalOOPs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KunalOOPs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KunalOOPs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KunalOOPs/KunalOOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KunalOOPs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks/src/Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks/src/gfg/BalancedParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/BItManipulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/BitWiseOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/ExORofNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/FlipAndInvertImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/LoopsQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/RangeXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/bitwiseOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/decimal_to_bin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/kth_setOrnot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/out/production/BItManipulation/BItManipulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/powerOFNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/pythonDir/decimal_to_binary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BItManipulation/setBits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/BasicMaths.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/BinarySearchSQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/ComputingPower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/CountDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/DivisorOFNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/FactorOFNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/Gcd_sJain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/LcmNaiveAndEfficient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/NewtonSQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/PalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/PrimeFactors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/PrimeOrNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/Seive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/TrailingZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/gcd_lcm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/maths.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/BasicMaths.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/BinarySearchSQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/ComputingPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/CountDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/DivisorOFNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/FactorOFNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/Gcd_sJain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/LcmNaiveAndEfficient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/NewtonSQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/PrimeFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/PrimeOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/Seive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/TrailingZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/gcd_lcm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/out/production/BasicMaths/seiveoferathrosthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMaths/seiveoferathrosthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/.idea/Final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T03_DataTypes_variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T16_If_else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T17E__PhysicsCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T17__Operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T18E__ChemicalElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T21__PasswordValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T22__BankingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T23__TreePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T24__BreakContinueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T25__PracticeSet04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T26__IntroductionToArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T27__ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T28__MultiDArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T29__PracticeSet06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T31__Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T32__MethodOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T33__VariableArguments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T34__Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T35__MethodsPS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T37__OOPS_Terminologies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T38__firstClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T39__psOfClassesObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T40__AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T41__Exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T42__Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T43__GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T44__PracticeSet09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java playlist/First/T45__Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/Patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/out/production/Patterns/AlphaBatch/DiamoandPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/out/production/Patterns/AlphaBatch/HollowRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/out/production/Patterns/AlphaBatch/InvertedHalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/out/production/Patterns/AlphaBatch/PrintStarPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/out/production/Patterns/AlphaBatch/floydTriange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/out/production/Patterns/loveBabber/Patterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/src/AlphaBatch/DiamoandPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/src/AlphaBatch/HollowRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/src/AlphaBatch/InvertedHalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/src/AlphaBatch/PrintStarPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/src/AlphaBatch/floydTriange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns/src/loveBabber/Patterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/Sorting Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/StringDS/StringDS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/BubbleSort/SortArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/BubbleSort/SortArrOptimized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/CycleSort/DistinctCycleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/CycleSort/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/CycleSort/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/CycleSort/cycleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/CycleSort/disapperingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/InsertionSort/insertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/InsertionSort/insertionSortKunal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/MergeSort/MergeSortefficient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/MergeSort/mergeFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/MergeSort/mergeSortrun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/MergeSort/mergeTwoSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/intersectionNive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/intersectionOFsortedarr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/intersectionOfSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/intersectionefficient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/selectionSort/NaiveImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/selectionSort/selection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/selectionSort/selectionKunal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/CollectionsPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/Collectionsorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/MyCmp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/Point2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/SortExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/SortExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/sortingbasics/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/unionOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Algorithms/src/unionOftwoNaive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/out/production/Stack/TakeuForward/Stack.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/CollectionStackImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/ReverseStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/Stack.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/StackImplement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/StackLinkedListImplement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/gfg/DynamicStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/gfg/MyStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stacks/src/Stack.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Stacks/src/Stack.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/_2DArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2DArrays/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/FindLargestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/MaxSubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/PassingArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/printPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/printSubarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Alphabatch/com/reverseElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/BasicArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/ArraysDeleteOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/CheckSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/DeleteItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/DynamicArrayInsertionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/GetLargestItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/InsertInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/LeftRotateByOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/LeftRotateD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/MoveZerosEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/OperationPart1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/SecondLargeElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/SecondLargestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/arrays.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Geeks/com/questions/Leaders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/NestedArraylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/Questions.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/SimpleArraysDecleration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/TwoDimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/arrayRotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/arrays&amp;arraylist.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/maxItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/multiDimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Alphabatch/com/FindLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Alphabatch/com/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Alphabatch/com/PassingArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Alphabatch/com/printPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Alphabatch/com/printSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Alphabatch/com/reverseElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/BasicArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/CheckSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/DeleteItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/DynamicArrayInsertionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/GetLargestItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/LeftRotateByOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/LeftRotateD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/MoveZerosEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/OperationPart1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Geeks/com/SecondLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/NestedArraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/SimpleArraysDecleration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/TwoDimensionalArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/arrayRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/arrays&amp;arraylist.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/maxItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/multiDimensional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/passingInFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/reverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/sumOfElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/out/production/arrays&amp;arraylist/swapsList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/passingInFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/reverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/splitArrayOfLargestSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/sumOfElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/swapsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/takeuforward/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/takeuforward/SortedArrayOrNOt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/takeuforward/ZerosEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/takeuforward/tuf.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mCQO9EJMACyvD9i4pRVy4nNQ08" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98528a65-f7e7-4afd-afb8-9ca6bc87d015" name="Changes" comment="" />
+      <created>1726578045463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726578045463</updated>
+    </task>
+    <servers />
+  </component>
+</project>
