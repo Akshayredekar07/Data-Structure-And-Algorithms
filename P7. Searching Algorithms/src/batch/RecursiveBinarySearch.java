@@ -30,7 +30,6 @@ public class RecursiveBinarySearch {
         } else {
             return recursiveBinarySearch(arr, mid + 1, high, x);
         }
-
     }
 }
 

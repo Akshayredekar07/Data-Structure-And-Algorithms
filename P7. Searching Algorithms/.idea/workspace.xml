@@ -4,14 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98528a65-f7e7-4afd-afb8-9ca6bc87d015" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../P11. Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P11. Strings/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="98528a65-f7e7-4afd-afb8-9ca6bc87d015" name="Changes" comment="Solve questions of searching (first and last occurrence)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P7. Searching Algorithms/searching.docx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P7. Searching Algorithms/searching.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P7. Searching Algorithms/~$arching.docx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P7. Searching Algorithms/~$arching.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P7. Searching Algorithms/~WRL2995.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/batch/CountOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/batch/CountOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/batch/RecursiveBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/batch/RecursiveBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searching.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/searching.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/~$arching.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/~WRL2995.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/~WRL3609.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -20,21 +35,38 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2mCQO9EJMACyvD9i4pRVy4nNQ08" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Akshay/Documents/DS&A/P7. Searching Algorithms"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Akshay/Documents/DS&amp;A/P7. Searching Algorithms&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CountOccurances">
+}</component>
+  <component name="RunManager" selected="Application.SearchInfiniteSortedArray">
     <configuration name="CountOccurances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="batch.CountOccurances" />
+      <module name="P7. Searching Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="batch.CountOnes" />
       <module name="P7. Searching Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="batch.RecursiveBinarySearch" />
+    <configuration name="SearchInfiniteSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="batch.SearchInfiniteSortedArray" />
       <module name="P7. Searching Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -87,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInfiniteSortedArray" />
+        <item itemvalue="Application.CountOnes" />
         <item itemvalue="Application.CountOccurances" />
         <item itemvalue="Application.FirstOccuranceIterative" />
         <item itemvalue="Application.FirstOccurance" />
-        <item itemvalue="Application.RecursiveBinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +136,20 @@
       <option name="presentableId" value="Default" />
       <updated>1726578045463</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solve questions of searching (first and last occurrence)">
+      <option name="closed" value="true" />
+      <created>1726623102702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726623102702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Solve questions of searching (first and last occurrence)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve questions of searching (first and last occurrence)" />
   </component>
 </project>
