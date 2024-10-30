@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Data Structure &amp; Algorithms.iml" filepath="$PROJECT_DIR$/Data Structure &amp; Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SandeepJain/SandeepJain.iml" filepath="$PROJECT_DIR$/SandeepJain/SandeepJain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Striver/Striver.iml" filepath="$PROJECT_DIR$/Striver/Striver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L0. Java playlist/L0. Java playlist.iml" filepath="$PROJECT_DIR$/L0. Java playlist/L0. Java playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1. Patterns/L1. Patterns.iml" filepath="$PROJECT_DIR$/L1. Patterns/L1. Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2. Methods/L2. Methods.iml" filepath="$PROJECT_DIR$/L2. Methods/L2. Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3.  Object Oriented Programing/L3.  Object Oriented Programing.iml" filepath="$PROJECT_DIR$/L3.  Object Oriented Programing/L3.  Object Oriented Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miscellanoeus/Miscellanoeus.iml" filepath="$PROJECT_DIR$/Miscellanoeus/Miscellanoeus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P11. Strings/P11. Strings.iml" filepath="$PROJECT_DIR$/P11. Strings/P11. Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12. LinkedList/P12. LinkedList.iml" filepath="$PROJECT_DIR$/P12. LinkedList/P12. LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12. LinkedList/src/P12. LinkedList2.iml" filepath="$PROJECT_DIR$/P12. LinkedList/src/P12. LinkedList2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P13. Stacks/P13. Stacks.iml" filepath="$PROJECT_DIR$/P13. Stacks/P13. Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4. Recursion/P4. Recursion.iml" filepath="$PROJECT_DIR$/P4. Recursion/P4. Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P6. 2D Arrays/P6. 2D Arrays.iml" filepath="$PROJECT_DIR$/P6. 2D Arrays/P6. 2D Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P7. Searching Algorithms/src/P7. Searching Algorithms.iml" filepath="$PROJECT_DIR$/P7. Searching Algorithms/src/P7. Searching Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P7. Searching Algorithms/P7. Searching Algorithms2.iml" filepath="$PROJECT_DIR$/P7. Searching Algorithms/P7. Searching Algorithms2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P8. Sorting Algorithms/P8. Sorting Algorithms.iml" filepath="$PROJECT_DIR$/P8. Sorting Algorithms/P8. Sorting Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P9. Matrix/P9. Matrix.iml" filepath="$PROJECT_DIR$/P9. Matrix/P9. Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P8. Sorting Algorithms/StringDS/StringDS.iml" filepath="$PROJECT_DIR$/P8. Sorting Algorithms/StringDS/StringDS.iml" />
     </modules>
   </component>
 </project>

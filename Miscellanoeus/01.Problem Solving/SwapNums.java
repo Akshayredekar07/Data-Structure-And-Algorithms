@@ -24,12 +24,12 @@ class SwapNums {
 
 
     public static void main(String[] args) {
-        Scanner obj = new Scanner(System.in);
-        System.out.println("Enter a value");
-        int a = obj.nextInt();
-        System.out.println("Enter b value");
-        int b = obj.nextInt();
-        // SwapNums.swap(a, b);
-        SwapNums.swap1(a, b);
+        try (Scanner obj = new Scanner(System.in)) {
+            System.out.println("Enter a value");
+            int a = obj.nextInt();
+            System.out.println("Enter b value");
+            int b = obj.nextInt();
+            SwapNums.swap1(a, b);
+        }
     }
 }

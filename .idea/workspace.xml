@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L0. Java playlist/L0. Java playlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L1. Patterns/L1. Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2. Methods/L2. Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3.  Object Oriented Programing/L3.  Object Oriented Programing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellanoeus/Miscellanoeus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P12. LinkedList/P12. LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P12. LinkedList/src/P12. LinkedList2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P13. Stacks/P13. Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P6. 2D Arrays/P6. 2D Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P7. Searching Algorithms/P7. Searching Algorithms2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P7. Searching Algorithms/src/P7. Searching Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P8. Sorting Algorithms/P8. Sorting Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data Structure &amp; Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellanoeus/01.Problem Solving/SwapNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellanoeus/01.Problem Solving/SwapNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P10. Hashing/Hashing.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P10. Hashing/Hashing.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4. Recursion/P4. Recursion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/P4. Recursion/P4. Recursion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4. Recursion/src/L0. Intoduction to Recursion/recursion/PrintFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4. Recursion/src/L0. Intoduction to Recursion/recursion/PrintFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4. Recursion/src/L0. Intoduction to Recursion/recursion/recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4. Recursion/src/L0. Intoduction to Recursion/recursion/recursion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nkpVoXkHNUpUL9vjZwbFkuHDvN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PrintFunction.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Build Script Found": "Build script found",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
+    "Notification.DoNotAsk-Build Script Found": "true",
+    "Notification.DoNotAsk-WindowsDefender": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PrintFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intoduction.recursion.PrintFunction" />
+      <module name="P4. Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intoduction.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DSA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrintFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="" />
+      <created>1729526956232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729526956232</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
