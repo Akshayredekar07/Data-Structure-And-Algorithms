@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Card",
+            "request": "launch",
+            "mainClass": "Card",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "Test",
