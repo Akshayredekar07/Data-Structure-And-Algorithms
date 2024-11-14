@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DynamicMatrixTranspose",
+            "request": "launch",
+            "mainClass": "DynamicMatrixTranspose",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "MatrixSum",
             "request": "launch",
             "mainClass": "MatrixSum",
