@@ -1,0 +1,21 @@
+
+public class CountDigitsOf{
+    public static void main(String[] args){
+
+
+    }
+
+    int count(int x){
+        int result = 0;
+        while(x>0){
+            x=x/10;
+            result++;
+        }
+        return result;
+    }
+
+    
+    boolean isPal(int x){
+        
+    }
+}

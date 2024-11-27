@@ -9,9 +9,19 @@ void fun1(int n) {
     }
 }
 
+void fun2(int count){
+    if(count>=10){
+    return;
+    }
+    cout<<count<<" ";
+    fun2(count+1);
+}
+
 int main() {
     int x = 3;
     fun1(x);
+    
+    fun2(0);
     return 0;
 }
 
