@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/printnums.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/printnums.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P4. Recursion/src/L0. Intoduction to Recursion/recursion/recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4. Recursion/src/L0. Intoduction to Recursion/recursion/recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P4. Recursion/src/L2. Basic Of Recursion/Questions/backNto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4. Recursion/src/L2. Basic Of Recursion/Questions/backNto1.java" afterDir="false" />
-    </list>
+    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Akshayredekar07"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Akshayredekar07/Data-Structure-And-Algorithms.git",
+    "accountId": "fc551beb-fc87-4ac1-b056-ef3e3c0c6a96"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0

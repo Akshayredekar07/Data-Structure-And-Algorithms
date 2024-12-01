@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstNonRepetingCharacter",
+            "request": "launch",
+            "mainClass": "FirstNonRepetingCharacter",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "DynamicMatrixTranspose",
             "request": "launch",
             "mainClass": "DynamicMatrixTranspose",
