@@ -1,5 +1,3 @@
-package AlphaBatch;
-
 public class CheckPalin{
     public static void main(String[] args) {
     String s = "racecar";
