@@ -1,57 +1,24 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
         {
-            "type": "java",
-            "name": "FirstNonRepetingCharacter",
-            "request": "launch",
-            "mainClass": "FirstNonRepetingCharacter",
-            "projectName": "DSA_77514479"
-        },
-        {
-            "type": "java",
-            "name": "DynamicMatrixTranspose",
-            "request": "launch",
-            "mainClass": "DynamicMatrixTranspose",
-            "projectName": "DSA_77514479"
-        },
-        {
-            "type": "java",
-            "name": "MatrixSum",
-            "request": "launch",
-            "mainClass": "MatrixSum",
-            "projectName": "DSA_77514479"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "DSA_77514479"
-        },
-        {
-            "type": "java",
-            "name": "Rectangle",
-            "request": "launch",
-            "mainClass": "Rectangle",
-            "projectName": "DSA_77514479"
-        },
-        {
-            "type": "java",
-            "name": "Card",
-            "request": "launch",
-            "mainClass": "Card",
-            "projectName": "DSA_77514479"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "Test",
-            "projectName": "DSA_77514479"
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
         }
-    ]
+      ]
+    }
+  ]
 }
