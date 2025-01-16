@@ -2,6 +2,27 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "LargestElement",
+      "request": "launch",
+      "mainClass": "takeuforward.LargestElement",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "SumOfNaturals",
+      "request": "launch",
+      "mainClass": "SumOfNaturals",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "NestedRecursion",
+      "request": "launch",
+      "mainClass": "NestedRecursion",
+      "projectName": "DSA_77514479"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
