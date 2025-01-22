@@ -55,5 +55,32 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "java.project.sourcePaths": [
+    "POTD",
+    "P9. Matrix/src",
+    "P8. Sorting Algorithms/src",
+    "P7. Searching Algorithms/src",
+    "P6. 2D Arrays/src",
+    "P5. Arrays",
+    "P4. Recursion/src/AB",
+    "P31.Abdul Bari/L00.BasicsCPP",
+    "P3. Bit Manipulation",
+    "P2. Basic Mathamatics",
+    "P13. Stacks/src",
+    "P12. LinkedList/src",
+    "P11. Strings/src",
+    "Miscellanoeus/01.Problem Solving",
+    "L3.  OOPs/src/shraddha",
+    "L2. Methods/src",
+    "L1. Patterns/src",
+    "L0. Java playlist/First",
+    "P4. Recursion/src/L4. Function Recursion"
+  ],
+  "files.associations": {
+    "*.sqlbook": "sql",
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
+    "string_view": "cpp"
+  }
 }

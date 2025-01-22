@@ -401,3 +401,227 @@ Understanding array memory representation is crucial for:
 - Debugging memory-related issues
 - Writing efficient array manipulation algorithms
 
+
+
+### Array Abstract Data Type (ADT) Concepts
+
+#### 1. **Array Space/Storage:**
+- **Size (Capacity):** The maximum number of elements an array can hold. In the example, the size is fixed at **10**.
+- **Length:** The number of elements currently stored in the array. In the example, the length is **7** (indicating 7 elements are stored).
+- **Data Section:** This section shows the elements stored in the array: **8, 3, 7, 12, 6, 9, 10**.
+- **Indices:** The indices of the array elements are labeled from **0 to 9**.
+
+#### 2. **Key Properties:**
+- **Size:** Maximum number of elements an array can hold, which is fixed.
+  - Example: **Size = 10**
+- **Length:** The current number of elements stored in the array, which is dynamic.
+  - Example: **Length = 7**
+
+#### 3. **Common Operations:**
+- **Display():** Displays all the elements in the array.
+- **Add(x) / Append(x):** Adds the element **x** to the end of the array.
+  - Logic: `A[Length] = x; Length++;`
+  - Time Complexity: **O(1)** (constant time) for the operation.
+- **Insert(index, x):** Inserts element **x** at a specific index, which typically requires shifting the elements after the insertion point.
+- **Delete(index):** Deletes the element at the specified index, which may also require shifting the elements after the deleted item.
+- **Search(x):** Searches for the element **x** in the array.
+- **Get(index):** Retrieves the element at the specified index.
+- **Set(index, x):** Sets the value at a specific index to **x**.
+- **Max() / Min():** Finds the maximum or minimum element in the array.
+- **Reverse():** Reverses the order of the elements in the array.
+- **Shift/Rotate():** Shifts or rotates the elements in the array.
+
+
+
+    ```
+    Array A (Size = 10, Length = 8)
+
+    +---+---+---+----+---+---+---+----+---+---+
+    | 8 | 3 | 7 | 12 | 15| 6 | 9 | 10 |   |   |
+    +---+---+---+----+---+---+---+----+---+---+
+    | 0 | 1 | 2 |  3 | 4 | 5 | 6 |  7 | 8 | 9 |  <-- Index
+    ```
+
+
+
+
+   **Insert(index, x):** Inserts element `x` at the specified `index`. Elements from that index onwards are shifted to the right.
+
+        ```
+        Before Insertion:
+        +---+---+---+----+---+---+---+----+---+---+
+        | 8 | 3 | 7 | 12 |   | 6 | 9 | 10 |   |   |
+        +---+---+---+----+---+---+---+----+---+---+
+        | 0 | 1 | 2 |  3 | 4 | 5 | 6 |  7 | 8 | 9 |
+
+        After Insertion:
+        +---+---+---+----+----+---+---+----+---+---+
+        | 8 | 3 | 7 | 12 | 15 | 6 | 9 | 10 |   |   |
+        +---+---+---+----+----+---+---+----+---+---+
+        | 0 | 1 | 2 |  3 |  4 | 5 | 6 |  7 | 8 | 9 |
+        ```
+
+
+**Array ADT - Delete Operation**
+
+*   **Initial State:**
+    *   `Size = 10` (Array capacity)
+    *   `Length = 8` (Number of elements currently in the array)
+    *   Array `A`: `[8, 3, 7, 12, 15, 6, 9, 10, _, _]` (Indices 0-9)
+
+*   **Operation:** `Delete(3)` (Delete the element at index 3)
+
+*   **Code/Steps (from the image, adapted for 0-based indexing):**
+
+    1.  `x = A[index];` (Store the value at the index to be deleted. In this case, `x` would become 12.)
+    2.  `for (i = index; i < Length - 1; i++) { A[i] = A[i + 1]; }` (Shift elements to the left, starting from the deletion index up to `Length-1`)
+    3.  `Length--;` (Decrement the length of the array)
+
+*   **Visual Representation (Before Deletion):**
+
+    ```
+    +---+---+---+----+----+---+---+----+---+---+
+    | 8 | 3 | 7 | 12 | 15 | 6 | 9 | 10 |   |   |
+    +---+---+---+----+----+---+---+----+---+---+
+    | 0 | 1 | 2 |  3 |  4 | 5 | 6 |  7 | 8 | 9 |  <-- Index
+    ```
+
+*   **Visual Representation (After Deletion):**
+
+    ```
+    +---+---+---+----+---+---+----+---+---+---+
+    | 8 | 3 | 7 | 15 | 6 | 9 | 10 |   |   |   |
+    +---+---+---+----+---+---+----+---+---+---+
+    | 0 | 1 | 2 |  3 | 4 | 5 |  6 | 7 | 8 | 9 |  <-- Index
+    ```
+
+**Array Delete Time Complexity**
+
+*   **Best Case (Deleting last element):** O(1) - Constant time.
+*   **Worst/Average Case (Deleting elsewhere):** O(n) - Linear time (due to shifting).
+
+
+**Linear Search in an Array**
+
+*   **Array:**
+    *   `Size = 10` (Capacity)
+    *   `Length = 10` (Number of elements)
+    *   `A = [8, 9, 4, 7, 6, 3, 10, 5, 14, 2]` (Elements at indices 0-9)
+
+*   **Search Operation:** The code performs a linear search for a given `Key`.
+
+    ```c
+    for (i = 0; i < Length; i++) {
+        if (key == A[i]) {
+            return i; // Key found at index i
+        }
+    }
+    return -1; // Key not found
+    ```
+
+*   **Successful Search:**
+    *   `Key = 5`
+    *   The search finds `5` at index 7.
+
+*   **Unsuccessful Search:**
+    *   `Key = 12`
+    *   The search does not find `12` in the array.
+
+*   **Time Complexity:**
+    *   **Best Case:** O(1) (Key is at the first index).
+    *   **Worst Case:** O(n) (Key is at the last index or not present).
+    *   **Average Case:** O(n)
+
+
+    *   Calculating the average case time complexity as `1+2+3+--+(n+1)/2 = n+1/2`, which simplifies to O(n). This is a correct, though slightly informal, way to arrive at the average case complexity.
+
+
+### **1. Binary Search Algorithm**
+Binary search works by halving the search space at every step:
+1. Compare the middle element of the array with the target.
+2. If the middle element is the target, stop.
+3. If the target is smaller than the middle element, repeat the search on the left half.
+4. If the target is larger, repeat the search on the right half.
+
+At each step, the number of elements left to search is halved.
+
+### **2. General Analysis**
+Suppose the array has $n$ elements.
+
+1. **Initial Search Space**: $n$ elements.
+2. After the first comparison, the search space reduces to $\frac{n}{2}$ elements.
+3. After the second comparison, it reduces to $\frac{n}{4}$ elements.
+4. After $k$ comparisons, the search space is reduced to:
+  $$
+  \frac{n}{2^k}
+  $$
+
+This process continues until the search space contains only 1 element.
+
+### **3. Deriving the Formula**
+The condition to stop is when the search space contains 1 element:
+$$
+\frac{n}{2^k} = 1
+$$
+
+Solve for $k$:
+$$
+n = 2^k
+$$
+
+Take the logarithm (base 2) on both sides:
+$$
+\log_2(n) = k
+$$
+
+Thus, the number of steps $k$, which is the number of comparisons required, is:
+$$
+k = \log_2(n)
+$$
+
+### **4. Time Complexity**
+- In terms of **Big-O notation**, the time complexity is proportional to $\log_2(n)$.
+- Since logarithmic time complexities grow very slowly as $n$ increases, binary search is efficient.
+
+### **5. Example Calculation**
+Let’s take an example with $n = 16$:
+1. At step 1, search space: $16$.
+2. At step 2, search space: $\frac{16}{2} = 8$.
+3. At step 3, search space: $\frac{8}{2} = 4$.
+4. At step 4, search space: $\frac{4}{2} = 2$.
+5. At step 5, search space: $\frac{2}{2} = 1$.
+
+The total steps = $\log_2(16) = 4$, confirming the formula.
+
+### **Conclusion**
+The formula $\log_2(n)$ arises naturally from the process of repeatedly halving the search space. Each division by 2 corresponds to one comparison, and the total number of divisions required is logarithmic with respect to the size of the input array.
+
+### Breakdown of the Analysis:
+1. **Best Case**: 
+  - The best case occurs when the target element is found at the first comparison (i.e., the middle element). 
+  - Time complexity: $O(1)$, as it only requires one comparison.
+
+2. **Worst Case**:
+  - In the worst case, the target element is either at the extreme ends or not in the array.
+  - The number of comparisons required will be proportional to $\log_2(n)$, as binary search divides the array size by 2 at every step.
+  - Time complexity: $O(\log n)$.
+
+3. **Average Case**:
+  - The average case is calculated by considering all possible paths in the binary tree representation of binary search.
+  - Each level of the tree represents the halving of the search space.
+  - The formula used:
+    $$
+    \text{Average Comparisons} = \frac{1 \cdot 2^0 + 2 \cdot 2^1 + 3 \cdot 2^2 + \cdots + \log_2(n) \cdot 2^{\log_2(n)-1}}{n}
+    $$
+  - This simplifies to:
+    $$
+    \frac{\log_2(n) \cdot n}{n} = O(\log n)
+    $$
+
+### Tree Representation:
+- The image shows how the binary search process can be visualized as a binary tree.
+- The root represents the full array, and each subsequent level halves the size of the array.
+
+### Formula Simplifications:
+- The summation ($\sum_{i=1}^{\log_2(n)} i \cdot 2^i$) in the image demonstrates how to compute the average case.
+- After simplifying, it confirms that the average case complexity is also $O(\log n)$.

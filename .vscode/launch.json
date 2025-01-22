@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SearchRotated",
+      "request": "launch",
+      "mainClass": "TUF.SearchRotated",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "ReverseNumber",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
       "name": "LargestElement",
       "request": "launch",
       "mainClass": "takeuforward.LargestElement",
