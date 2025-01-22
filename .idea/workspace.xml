@@ -5,13 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P5. Arrays/takeuforward/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/Factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/FibonnaciSeries.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/IndirectRecursion.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/MutualRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/NestedRecursion.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/Power.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/Taylor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/TowerOfHonai.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/nCr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/2DArrays.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/ADT.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/ArrayDecleration.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/ArraysInHeap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/IncreaseSize.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4. Recursion/src/AB/Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P4. Recursion/src/AB/SumOfNaturals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5. Arrays/takeuforward/LargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/Notes.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/TreeRecursion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/TreeRecursion.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L01.Recursion/~$Notes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P5. Arrays/takeuforward/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/takeuforward/SecondLargest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
