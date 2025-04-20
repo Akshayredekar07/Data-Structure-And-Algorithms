@@ -1,47 +1,32 @@
 package Geeks.com;
 
-public class CheckSorted {
-    public static void main(String[] args) {
-        int[] arr = {7,20, 30, 10};
-//        System.out.println(isSorted(arr));
-//        System.out.println(efficientApproach(arr));
-        System.out.println(sorted(arr));
-    }
+class CheckSorted {
 
-    public static boolean isSorted(int[] arr){
-        for (int j : arr) {
-            for (int k : arr) {
-                if (k < j) {
+    // First approach: Nested loops for all pairs
+    static boolean isSortedUsingAllPairs(int[] arr, int n) {
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] < arr[i])
                     return false;
-                }
             }
         }
-        /*
-        for(int i=0; i<arr.length; i++){
-            for (int j = 0; j < arr.length; j++) {
-                if(arr[j] < arr[i]){
-                    return false;
-                }
-            }
-        }*/
         return true;
     }
 
-    public static boolean efficientApproach(int[] arr) {
-        for (int i = 1; i < arr.length; i++) {
-            if(arr[i] < arr[i-1]){
+    // Second approach: Single loop for consecutive elements
+    static boolean isSortedUsingConsecutiveElements(int[] arr, int n) {
+        for (int i = 1; i < n; i++) {
+            if (arr[i] < arr[i - 1])
                 return false;
-            }
         }
         return true;
     }
 
-    public static boolean sorted(int[] arr){
-        for (int i = 0; i < arr.length; i++) {
-            if(arr[i]<=arr[i+1]){
-                return true;
-            }
-        }
-        return false;
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5};
+        int n = 5;
+
+        System.out.println("Using all pairs: " + isSortedUsingAllPairs(arr, n));
+        System.out.println("Using consecutive elements: " + isSortedUsingConsecutiveElements(arr, n));
     }
 }

@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/questions/RainWaterTrapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/maxConsecutiveOnes.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/ADT.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/ADT.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Arrays.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/~$Notes.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P4. Recursion/src/L4. Function Recursion/reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P5. Arrays/Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/Questions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P7. Searching Algorithms/src/Binary-kunal/FirstAndLastOcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/P7. Searching Algorithms/src/Binary-kunal/FirstAndLastOcc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P7. Searching Algorithms/src/Binary-kunal/SmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/P7. Searching Algorithms/src/Binary-kunal/SmallestLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P5. Arrays/Geeks/com/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/CheckSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P5. Arrays/Geeks/com/arrays.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/arrays.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P5. Arrays/takeuforward/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/takeuforward/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA/Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Questions.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/~$estions.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +58,7 @@
   "keyToString": {
     "Application.Day03_checkDuplicatesWithinK.executor": "Run",
     "Application.LargestElement.executor": "Run",
+    "Application.MaxConsecutiveOnes.executor": "Run",
     "Application.NthFibonacci.executor": "Run",
     "Application.PrintFunction.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
@@ -85,7 +82,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StockBuySell">
+  <component name="RunManager" selected="Application.MaxConsecutiveOnes">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
@@ -133,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeks.com.MaxConsecutiveOnes" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Geeks.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="takeuforward.RemoveDuplicates" />
       <module name="DSA" />
@@ -172,19 +182,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Questions.printName" />
-      <module name="P4. Recursion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="DSA" />
       <method v="2">
@@ -200,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxConsecutiveOnes" />
         <item itemvalue="Application.StockBuySell" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.LargestElement" />
-        <item itemvalue="Application.printName" />
       </list>
     </recent_temporary>
   </component>
