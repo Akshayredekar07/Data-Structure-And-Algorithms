@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/maxConsecutiveOnes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P31.Abdul Bari/L02.Arrays/Notes.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P5. Arrays/Geeks/com/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/CheckSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P5. Arrays/Geeks/com/arrays.docx" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/Geeks/com/arrays.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P5. Arrays/takeuforward/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/P5. Arrays/takeuforward/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Questions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/~$estions.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
