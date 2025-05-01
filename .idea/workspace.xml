@@ -72,7 +72,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxConsecutiveOnes">
+  <component name="RunManager" selected="Application.NextGreaterElement">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
@@ -126,6 +126,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Geeks.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.NextGreaterElement" />
+      <module name="P13. Stacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,6 +200,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.StockBuySell" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.SecondLargest" />
