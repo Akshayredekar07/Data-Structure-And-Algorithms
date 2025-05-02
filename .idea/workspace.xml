@@ -49,6 +49,7 @@
     &quot;Application.Day03_checkDuplicatesWithinK.executor&quot;: &quot;Run&quot;,
     &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxConsecutiveOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextGreaterElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.NthFibonacci.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintFunction.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
@@ -72,7 +73,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NextGreaterElement">
+  <component name="RunManager" selected="Application.reverseIndividual">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
@@ -106,19 +107,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <method v="2" />
-    </configuration>
-    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="takeuforward.LargestElement" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="takeuforward.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Geeks.com.MaxConsecutiveOnes" />
@@ -185,6 +173,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reverseIndividual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.reverseIndividual" />
+      <module name="P13. Stacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="DSA" />
       <method v="2">
@@ -200,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseIndividual" />
         <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.StockBuySell" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.SecondLargest" />
-        <item itemvalue="Application.LargestElement" />
       </list>
     </recent_temporary>
   </component>
