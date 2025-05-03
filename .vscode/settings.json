@@ -63,6 +63,7 @@
     "P7. Searching Algorithms/src",
     "P6. 2D Arrays/src",
     "P5. Arrays",
+    "P4. Recursion/src/L4. Function Recursion",
     "P4. Recursion/src/AB",
     "P31.Abdul Bari/L00.BasicsCPP",
     "P3. Bit Manipulation",
@@ -75,7 +76,7 @@
     "L2. Methods/src",
     "L1. Patterns/src",
     "L0. Java playlist/First",
-    "P4. Recursion/src/L4. Function Recursion"
+    "P14.Queue"
   ],
   "files.associations": {
     "*.sqlbook": "sql",

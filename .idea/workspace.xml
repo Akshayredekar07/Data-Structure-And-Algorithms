@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="" />
+    <list default="true" id="86ab17f5-fbc6-4816-94e6-43b9d0ae6da8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,7 @@
     &quot;Application.StockBuySell.executor&quot;: &quot;Run&quot;,
     &quot;Application.backNto1.executor&quot;: &quot;Run&quot;,
     &quot;Application.printName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseIndividual.executor&quot;: &quot;Run&quot;,
     &quot;Notification.DisplayName-DoNotAsk-Build Script Found&quot;: &quot;Build script found&quot;,
     &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender configuration&quot;,
     &quot;Notification.DoNotAsk-Build Script Found&quot;: &quot;true&quot;,
