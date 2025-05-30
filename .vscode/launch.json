@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Subsequence",
+      "request": "launch",
+      "mainClass": "Subsequence",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
       "name": "intersectionOfSorted",
       "request": "launch",
       "mainClass": "intersectionOfSorted",
